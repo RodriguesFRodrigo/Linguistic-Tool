@@ -1,2 +1,2 @@
-# Linguistic-Tool
-Linguistic tool to extract linguistic clues from texts in portuguese BR.
+# Linguistic-tool
+Uma ferramenta para auxiliar na detecção de notícias falsas.
